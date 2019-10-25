@@ -1,0 +1,797 @@
+----- CS6301 -----
+2017 Fall, CS6301.501, Timothy L Culver
+A: 37, A-: 9, total students: 47, ratio: 97.872%
+
+2017 Fall, CS6301.2, Kevin Hamlen
+A: 0, A-: 7, total students: 8, ratio: 87.500%
+
+2017 Fall, CS6301.1, Neeraj Mittal
+A: 6, A-: 0, total students: 10, ratio: 60.000%
+
+2017 Fall, CS6301.7, Zygmunt J Haas
+A: 4, A-: 3, total students: 11, ratio: 63.636%
+
+2017 Fall, CS6301.502, Balaji Raghavachari
+A: 22, A-: 34, total students: 125, ratio: 44.800%
+
+2017 Fall, CS6301.4, Ramaswamy Chandrasekaran
+A: 14, A-: 4, total students: 22, ratio: 81.818%
+
+2017 Fall, CS6301.6, Haim Schweitzer
+A: 33, A-: 20, total students: 77, ratio: 68.831%
+
+2017 Fall, CS6301.9, Alvaro Cardenas
+A: 11, A-: 0, total students: 11, ratio: 100.000%
+
+2017 Fall, CS6301.12, Shuang Hao
+A: 10, A-: 3, total students: 13, ratio: 100.000%
+
+2018 Spring, CS6301.501, Shiyi Wei
+A: 4, A-: 4, total students: 9, ratio: 88.889%
+
+2018 Spring, CS6301.502, Timothy L Culver
+A: 41, A-: 10, total students: 52, ratio: 98.077%
+
+2018 Spring, CS6301.004, William J Semper
+A: 93, A-: 0, total students: 94, ratio: 98.936%
+
+2018 Spring, CS6301.002, Ding Z Du
+A: 17, A-: 0, total students: 17, ratio: 100.000%
+
+2018 Spring, CS6301.005, Bhavani Thuraisingham
+A: 31, A-: 0, total students: 31, ratio: 100.000%
+
+2018 Spring, CS6301.006, Cong Liu
+A: 15, A-: 0, total students: 16, ratio: 93.750%
+
+2018 Spring, CS6301.008, Kyle J Fox
+A: 11, A-: 3, total students: 23, ratio: 60.870%
+
+2018 Spring, CS6301.503, Timothy L Culver
+A: 42, A-: 13, total students: 61, ratio: 90.164%
+
+2018 Summer, CS6301.0U1, Bhavani Thuraisingham
+A: 22, A-: 2, total students: 24, ratio: 100.000%
+
+2018 Fall, CS6301.005, Bhavani Thuraisingham
+A: 10, A-: 0, total students: 10, ratio: 100.000%
+
+2018 Fall, CS6301.008, Shuang Hao
+A: 6, A-: 5, total students: 11, ratio: 100.000%
+
+2018 Fall, CS6301.002, Ramaswamy Chandrasekaran
+A: 8, A-: 2, total students: 13, ratio: 76.923%
+
+2018 Fall, CS6301.004, Kevin Hamlen
+A: 5, A-: 2, total students: 14, ratio: 50.000%
+
+2018 Fall, CS6301.003, Neeraj Mittal
+A: 9, A-: 3, total students: 20, ratio: 60.000%
+
+2018 Fall, CS6301.010, Balakrishnan Prabhakaran
+A: 15, A-: 6, total students: 21, ratio: 100.000%
+
+2018 Fall, CS6301.006, Alvaro Cardenas
+A: 28, A-: 0, total students: 28, ratio: 100.000%
+
+2018 Fall, CS6301.501, Timothy L Culver
+A: 11, A-: 30, total students: 60, ratio: 68.333%
+
+2018 Fall, CS6301.007, Haim Schweitzer
+A: 29, A-: 14, total students: 75, ratio: 57.333%
+
+2018 Fall, CS6301.009, Bhavani Thuraisingham
+A: 18, A-: 0, total students: 19, ratio: 94.737%
+
+2018 Fall, CS6301.502, Arthur Redfern
+A: 14, A-: 21, total students: 51, ratio: 68.627%
+
+2019 Spring, CS6301.003, Bhavani Thuraisingham
+A: 11, A-: 0, total students: 11, ratio: 100.000%
+
+2019 Spring, CS6301.MS1, Nhut Nguyen
+A: 5, A-: 2, total students: 13, ratio: 53.846%
+
+2019 Spring, CS6301.504, I-Ling Yen
+A: 4, A-: 4, total students: 13, ratio: 61.538%
+
+2019 Spring, CS6301.001, Cong Liu
+A: 16, A-: 0, total students: 17, ratio: 94.118%
+
+2019 Spring, CS6301.007, Wei Yang
+A: 6, A-: 8, total students: 17, ratio: 82.353%
+
+2019 Spring, CS6301.011, Shiyi Wei
+A: 13, A-: 4, total students: 20, ratio: 85.000%
+
+2019 Spring, CS6301.006, Ding Z Du
+A: 15, A-: 6, total students: 22, ratio: 95.455%
+
+2019 Spring, CS6301.008, Ramaswamy Chandrasekaran
+A: 14, A-: 11, total students: 28, ratio: 89.286%
+
+2019 Spring, CS6301.503, Arthur Redfern
+A: 10, A-: 5, total students: 31, ratio: 48.387%
+
+2019 Spring, CS6301.002, Benjamin A Raichel
+A: 9, A-: 11, total students: 32, ratio: 62.500%
+
+2019 Spring, CS6301.505, Timothy L Culver
+A: 16, A-: 17, total students: 33, ratio: 100.000%
+
+2019 Spring, CS6301.005, Bhavani Thuraisingham
+A: 35, A-: 0, total students: 35, ratio: 100.000%
+
+2019 Spring, CS6301.010, Gautam Kunapuli
+A: 43, A-: 2, total students: 46, ratio: 97.826%
+
+2019 Spring, CS6301.502, Timothy L Culver
+A: 20, A-: 45, total students: 65, ratio: 100.000%
+
+2019 Spring, CS6301.004, Anurag Nagar
+A: 89, A-: 5, total students: 95, ratio: 98.947%
+
+----- CS6307 -----
+2018 Spring, CS6307.501, Anurag Nagar
+A: 24, A-: 3, total students: 27, ratio: 100.000%
+
+2019 Spring, CS6307.501, Anurag Nagar
+A: 25, A-: 3, total students: 28, ratio: 100.000%
+
+----- CS6313 -----
+2017 Fall, CS6313.1, William J Semper
+A: 35, A-: 13, total students: 83, ratio: 57.831%
+
+2017 Fall, CS6313.2, Pankaj K Choudhary
+A: 6, A-: 5, total students: 32, ratio: 34.375%
+
+2018 Spring, CS6313.001, Pankaj K Choudhary
+A: 35, A-: 5, total students: 54, ratio: 74.074%
+
+2018 Spring, CS6313.501, William J Semper
+A: 36, A-: 3, total students: 74, ratio: 52.703%
+
+2018 Fall, CS6313.002, Cuneyt G Akcora
+A: 77, A-: 6, total students: 84, ratio: 98.810%
+
+2018 Fall, CS6313.001, Pankaj K Choudhary
+A: 27, A-: 10, total students: 83, ratio: 44.578%
+
+2019 Spring, CS6313.001, Min Chen
+A: 16, A-: 2, total students: 39, ratio: 46.154%
+
+2019 Spring, CS6313.501, Cuneyt G Akcora
+A: 79, A-: 2, total students: 83, ratio: 97.590%
+
+----- CS6314 -----
+2017 Fall, CS6314.1, Nurcan Yuruk
+A: 41, A-: 14, total students: 65, ratio: 84.615%
+
+2017 Fall, CS6314.2, Nurcan Yuruk
+A: 24, A-: 19, total students: 59, ratio: 72.881%
+
+2017 Fall, CS6314.501, Mithun Balakrishna
+A: 20, A-: 13, total students: 50, ratio: 66.000%
+
+2018 Spring, CS6314.501, Timothy McMahan
+A: 35, A-: 12, total students: 48, ratio: 97.917%
+
+2018 Spring, CS6314.001, Nurcan Yuruk
+A: 28, A-: 6, total students: 44, ratio: 77.273%
+
+2018 Spring, CS6314.002, Nurcan Yuruk
+A: 34, A-: 11, total students: 51, ratio: 88.235%
+
+2018 Fall, CS6314.501, Mithun Balakrishna
+A: 5, A-: 17, total students: 42, ratio: 52.381%
+
+2018 Fall, CS6314.002, Nurcan Yuruk
+A: 25, A-: 9, total students: 45, ratio: 75.556%
+
+2018 Fall, CS6314.001, Nurcan Yuruk
+A: 26, A-: 9, total students: 49, ratio: 71.429%
+
+2019 Spring, CS6314.001, Nurcan Yuruk
+A: 46, A-: 19, total students: 79, ratio: 82.278%
+
+2019 Spring, CS6314.501, Timothy McMahan
+A: 69, A-: 10, total students: 80, ratio: 98.750%
+
+2019 Spring, CS6314.002, Nurcan Yuruk
+A: 53, A-: 17, total students: 80, ratio: 87.500%
+
+----- CS6315 -----
+2017 Fall, CS6315.501, Keven L Ates
+A: 38, A-: 0, total students: 46, ratio: 82.609%
+
+2018 Spring, CS6315.501, Keven L Ates
+A: 33, A-: 0, total students: 40, ratio: 82.500%
+
+2018 Fall, CS6315.501, Keven L Ates
+A: 43, A-: 0, total students: 50, ratio: 86.000%
+
+2019 Spring, CS6315.501, Keven L Ates
+A: 36, A-: 0, total students: 40, ratio: 90.000%
+
+----- CS6320 -----
+2017 Fall, CS6320.1, Dan I Moldovan
+A: 7, A-: 2, total students: 52, ratio: 17.308%
+
+2017 Fall, CS6320.501, Mithun Balakrishna
+A: 23, A-: 14, total students: 59, ratio: 62.712%
+
+2018 Spring, CS6320.001, Dan I Moldovan
+A: 6, A-: 10, total students: 40, ratio: 40.000%
+
+2018 Spring, CS6320.501, Mithun Balakrishna
+A: 9, A-: 10, total students: 47, ratio: 40.426%
+
+2018 Fall, CS6320.001, Dan I Moldovan
+A: 6, A-: 5, total students: 48, ratio: 22.917%
+
+2018 Fall, CS6320.501, Mithun Balakrishna
+A: 13, A-: 20, total students: 60, ratio: 55.000%
+
+2019 Spring, CS6320.002, Sanda M Harabagiu
+A: 18, A-: 3, total students: 29, ratio: 72.414%
+
+2019 Spring, CS6320.001, Dan I Moldovan
+A: 5, A-: 15, total students: 42, ratio: 47.619%
+
+2019 Spring, CS6320.003, Mithun Balakrishna
+A: 8, A-: 25, total students: 69, ratio: 47.826%
+
+----- CS6322 -----
+2018 Fall, CS6322.001, Sanda M Harabagiu
+A: 19, A-: 4, total students: 42, ratio: 54.762%
+
+2019 Spring, CS6322.001, Sanda M Harabagiu
+A: 18, A-: 2, total students: 21, ratio: 95.238%
+
+----- CS6323 -----
+2017 Fall, CS6323.1, Xiaohu Guo
+A: 10, A-: 5, total students: 22, ratio: 68.182%
+
+2018 Fall, CS6323.001, Xiaohu Guo
+A: 17, A-: 1, total students: 19, ratio: 94.737%
+
+----- CS6324 -----
+2018 Spring, CS6324.001, Alvaro Cardenas
+A: 18, A-: 7, total students: 41, ratio: 60.976%
+
+2019 Spring, CS6324.001, Junia d Valente
+A: 31, A-: 2, total students: 39, ratio: 84.615%
+
+----- CS6326 -----
+2017 Fall, CS6326.1, John Cole
+A: 11, A-: 4, total students: 38, ratio: 39.474%
+
+2018 Spring, CS6326.001, John Cole
+A: 28, A-: 0, total students: 40, ratio: 70.000%
+
+2018 Fall, CS6326.001, John Cole
+A: 18, A-: 1, total students: 33, ratio: 57.576%
+
+2019 Spring, CS6326.001, John Cole
+A: 4, A-: 0, total students: 13, ratio: 30.769%
+
+----- CS6327 -----
+2018 Spring, CS6327.001, Balakrishnan Prabhakaran
+A: 14, A-: 9, total students: 38, ratio: 60.526%
+
+----- CS6328 -----
+2017 Fall, CS6328.1, Paul Fishwick
+A: 17, A-: 1, total students: 18, ratio: 100.000%
+
+2018 Spring, CS6328.001, Paul Fishwick
+A: 18, A-: 0, total students: 18, ratio: 100.000%
+
+2018 Fall, CS6328.001, Paul Fishwick
+A: 17, A-: 0, total students: 17, ratio: 100.000%
+
+2019 Spring, CS6328.501, Paul Fishwick
+A: 18, A-: 0, total students: 18, ratio: 100.000%
+
+----- CS6331 -----
+2017 Fall, CS6331.1, Balakrishnan Prabhakaran
+A: 8, A-: 12, total students: 33, ratio: 60.606%
+
+----- CS6332 -----
+2017 Fall, CS6332.501, Zhiqiang Lin
+A: 15, A-: 0, total students: 17, ratio: 88.235%
+
+2018 Fall, CS6332.001, Wei Yang
+A: 4, A-: 6, total students: 16, ratio: 62.500%
+
+----- CS6334 -----
+2017 Fall, CS6334.1, Ryan P McMahan
+A: 24, A-: 4, total students: 29, ratio: 96.552%
+
+2018 Spring, CS6334.001, Ryan P McMahan
+A: 24, A-: 6, total students: 30, ratio: 100.000%
+
+2018 Fall, CS6334.001, Ryan P McMahan
+A: 31, A-: 5, total students: 37, ratio: 97.297%
+
+2019 Spring, CS6334.001, Ryan P McMahan
+A: 23, A-: 9, total students: 37, ratio: 86.486%
+
+----- CS6343 -----
+2017 Fall, CS6343.1, I-Ling Yen
+A: 7, A-: 8, total students: 31, ratio: 48.387%
+
+2018 Spring, CS6343.001, I-Ling Yen
+A: 5, A-: 1, total students: 13, ratio: 46.154%
+
+2018 Fall, CS6343.001, I-Ling Yen
+A: 6, A-: 2, total students: 16, ratio: 50.000%
+
+----- CS6347 -----
+2018 Spring, CS6347.001, Nicholas R Ruozzi
+A: 12, A-: 9, total students: 40, ratio: 52.500%
+
+2019 Spring, CS6347.001, Nicholas R Ruozzi
+A: 18, A-: 4, total students: 38, ratio: 57.895%
+
+----- CS6348 -----
+2018 Spring, CS6348.001, Murat Kantarcioglu
+A: 14, A-: 10, total students: 30, ratio: 80.000%
+
+2019 Spring, CS6348.001, Murat Kantarcioglu
+A: 8, A-: 2, total students: 16, ratio: 62.500%
+
+----- CS6349 -----
+2017 Fall, CS6349.1, Kamil Sarac
+A: 10, A-: 6, total students: 28, ratio: 57.143%
+
+2018 Spring, CS6349.001, Shuang Hao
+A: 5, A-: 3, total students: 9, ratio: 88.889%
+
+2018 Fall, CS6349.001, Kamil Sarac
+A: 10, A-: 1, total students: 30, ratio: 36.667%
+
+2019 Spring, CS6349.001, Shuang Hao
+A: 19, A-: 6, total students: 26, ratio: 96.154%
+
+----- CS6350 -----
+2017 Fall, CS6350.1, Latifur R Khan
+A: 20, A-: 24, total students: 94, ratio: 46.809%
+
+2017 Fall, CS6350.2, Anurag Nagar
+A: 17, A-: 11, total students: 41, ratio: 68.293%
+
+2018 Spring, CS6350.001, Latifur R Khan
+A: 30, A-: 15, total students: 93, ratio: 48.387%
+
+2018 Spring, CS6350.002, Anurag Nagar
+A: 25, A-: 30, total students: 68, ratio: 80.882%
+
+2018 Spring, CS6350.MS1, Latifur R Khan
+A: 9, A-: 1, total students: 10, ratio: 100.000%
+
+2018 Summer, CS6350.0U1, Anurag Nagar
+A: 11, A-: 8, total students: 26, ratio: 73.077%
+
+2018 Fall, CS6350.002, Anurag Nagar
+A: 20, A-: 10, total students: 37, ratio: 81.081%
+
+2018 Fall, CS6350.001, Latifur R Khan
+A: 18, A-: 31, total students: 71, ratio: 69.014%
+
+2019 Spring, CS6350.MS1, Latifur R Khan
+A: 12, A-: 0, total students: 13, ratio: 92.308%
+
+2019 Spring, CS6350.002, Anurag Nagar
+A: 38, A-: 29, total students: 70, ratio: 95.714%
+
+2019 Spring, CS6350.001, Latifur R Khan
+A: 33, A-: 32, total students: 115, ratio: 56.522%
+
+----- CS6352 -----
+2017 Fall, CS6352.1, Jason Jue
+A: 4, A-: 3, total students: 24, ratio: 29.167%
+
+2018 Spring, CS6352.001, Jason Jue
+A: 2, A-: 4, total students: 15, ratio: 40.000%
+
+2018 Fall, CS6352.001, Jason Jue
+A: 4, A-: 3, total students: 14, ratio: 50.000%
+
+----- CS6353 -----
+2017 Fall, CS6353.501, Neeraj K Gupta
+A: 7, A-: 3, total students: 11, ratio: 90.909%
+
+----- CS6356 -----
+2017 Fall, CS6356.1, Andrian Marcus
+A: 3, A-: 9, total students: 12, ratio: 100.000%
+
+----- CS6359 -----
+2017 Fall, CS6359.2, Mehra Nouroz Borazjany
+A: 4, A-: 35, total students: 61, ratio: 63.934%
+
+2017 Fall, CS6359.1, Mehra Nouroz Borazjany
+A: 11, A-: 12, total students: 35, ratio: 65.714%
+
+2018 Spring, CS6359.001, Rym Zalila-Wenkstern
+A: 10, A-: 5, total students: 39, ratio: 38.462%
+
+2018 Spring, CS6359.002, Rym Zalila-Wenkstern
+A: 6, A-: 6, total students: 31, ratio: 38.710%
+
+2018 Summer, CS6359.0U1, Mehra Nouroz Borazjany
+A: 5, A-: 6, total students: 22, ratio: 50.000%
+
+2018 Fall, CS6359.001, Mehra Nouroz Borazjany
+A: 7, A-: 13, total students: 32, ratio: 62.500%
+
+2018 Fall, CS6359.002, Mehra Nouroz Borazjany
+A: 8, A-: 39, total students: 62, ratio: 75.806%
+
+2019 Spring, CS6359.002, Tien N Nguyen
+A: 26, A-: 2, total students: 29, ratio: 96.552%
+
+----- CS6360 -----
+2017 Fall, CS6360.2, Nurcan Yuruk
+A: 27, A-: 10, total students: 61, ratio: 60.656%
+
+2017 Fall, CS6360.501, Chris I Davis
+A: 36, A-: 18, total students: 67, ratio: 80.597%
+
+2017 Fall, CS6360.4, John Cole
+A: 5, A-: 0, total students: 24, ratio: 20.833%
+
+2017 Fall, CS6360.3, Nurcan Yuruk
+A: 20, A-: 17, total students: 64, ratio: 57.812%
+
+2017 Fall, CS6360.5, Wei L Wu
+A: 11, A-: 11, total students: 38, ratio: 57.895%
+
+2017 Fall, CS6360.6, Murat Kantarcioglu
+A: 10, A-: 0, total students: 13, ratio: 76.923%
+
+2018 Spring, CS6360.001, Chris I Davis
+A: 14, A-: 16, total students: 58, ratio: 51.724%
+
+2018 Spring, CS6360.003, Chris I Davis
+A: 28, A-: 6, total students: 49, ratio: 69.388%
+
+2018 Spring, CS6360.002, Nurcan Yuruk
+A: 23, A-: 12, total students: 58, ratio: 60.345%
+
+2018 Spring, CS6360.MS1, Nurcan Yuruk
+A: 8, A-: 2, total students: 13, ratio: 76.923%
+
+2018 Spring, CS6360.005, Wei L Wu
+A: 18, A-: 11, total students: 41, ratio: 70.732%
+
+2018 Summer, CS6360.5U1, Chris I Davis
+A: 13, A-: 4, total students: 25, ratio: 68.000%
+
+2018 Fall, CS6360.004, John Cole
+A: 18, A-: 1, total students: 38, ratio: 50.000%
+
+2018 Fall, CS6360.003, Nurcan Yuruk
+A: 18, A-: 10, total students: 43, ratio: 65.116%
+
+2018 Fall, CS6360.501, Chris I Davis
+A: 20, A-: 20, total students: 62, ratio: 64.516%
+
+2018 Fall, CS6360.005, Wei L Wu
+A: 19, A-: 36, total students: 73, ratio: 75.342%
+
+2018 Fall, CS6360.006, Murat Kantarcioglu
+A: 11, A-: 10, total students: 29, ratio: 72.414%
+
+2018 Fall, CS6360.002, Nurcan Yuruk
+A: 14, A-: 16, total students: 63, ratio: 47.619%
+
+2019 Spring, CS6360.MS1, Balaji Raghavachari
+A: 13, A-: 4, total students: 20, ratio: 85.000%
+
+2019 Spring, CS6360.004, Wei L Wu
+A: 17, A-: 14, total students: 37, ratio: 83.784%
+
+2019 Spring, CS6360.001, Chris I Davis
+A: 16, A-: 14, total students: 39, ratio: 76.923%
+
+2019 Spring, CS6360.003, Chris I Davis
+A: 14, A-: 19, total students: 58, ratio: 56.897%
+
+2019 Spring, CS6360.002, Nurcan Yuruk
+A: 26, A-: 15, total students: 70, ratio: 58.571%
+
+----- CS6363 -----
+2017 Fall, CS6363.1, Ivan H Sudborough
+A: 4, A-: 5, total students: 17, ratio: 52.941%
+
+2017 Fall, CS6363.2, Sergey Bereg
+A: 24, A-: 33, total students: 65, ratio: 87.692%
+
+2017 Fall, CS6363.4, Benjamin A Raichel
+A: 6, A-: 10, total students: 37, ratio: 43.243%
+
+2017 Fall, CS6363.3, Sergey Bereg
+A: 29, A-: 17, total students: 56, ratio: 82.143%
+
+2017 Fall, CS6363.6, Ramaswamy Chandrasekaran
+A: 17, A-: 10, total students: 64, ratio: 42.188%
+
+2017 Fall, CS6363.8, Dung T Huynh
+A: 8, A-: 4, total students: 15, ratio: 80.000%
+
+2018 Spring, CS6363.001, Ramaswamy Chandrasekaran
+A: 16, A-: 6, total students: 41, ratio: 53.659%
+
+2018 Spring, CS6363.002, Ding Z Du
+A: 14, A-: 8, total students: 33, ratio: 66.667%
+
+2018 Spring, CS6363.003, Sergey Bereg
+A: 11, A-: 14, total students: 40, ratio: 62.500%
+
+2018 Spring, CS6363.005, Ovidiu Daescu
+A: 7, A-: 5, total students: 28, ratio: 42.857%
+
+2018 Spring, CS6363.004, Balaji Raghavachari
+A: 13, A-: 6, total students: 62, ratio: 30.645%
+
+2018 Summer, CS6363.0U1, Ramaswamy Chandrasekaran
+A: 9, A-: 4, total students: 24, ratio: 54.167%
+
+2018 Fall, CS6363.006, Dung T Huynh
+A: 16, A-: 3, total students: 33, ratio: 57.576%
+
+2018 Fall, CS6363.005, Sergey Bereg
+A: 13, A-: 15, total students: 45, ratio: 62.222%
+
+2018 Fall, CS6363.004, Benjamin A Raichel
+A: 10, A-: 14, total students: 59, ratio: 40.678%
+
+2018 Fall, CS6363.003, Ramaswamy Chandrasekaran
+A: 12, A-: 10, total students: 59, ratio: 37.288%
+
+2018 Fall, CS6363.002, Ramaswamy Chandrasekaran
+A: 9, A-: 11, total students: 55, ratio: 36.364%
+
+2019 Spring, CS6363.005, Kyle J Fox
+A: 14, A-: 12, total students: 45, ratio: 57.778%
+
+2019 Spring, CS6363.003, Sergey Bereg
+A: 23, A-: 9, total students: 58, ratio: 55.172%
+
+2019 Spring, CS6363.004, Balaji Raghavachari
+A: 15, A-: 9, total students: 60, ratio: 40.000%
+
+2019 Spring, CS6363.001, Ramaswamy Chandrasekaran
+A: 17, A-: 13, total students: 60, ratio: 50.000%
+
+----- CS6364 -----
+2017 Fall, CS6364.1, Richard K Min
+A: 9, A-: 9, total students: 37, ratio: 48.649%
+
+2017 Fall, CS6364.2, Sriraam Natarajan
+A: 16, A-: 18, total students: 65, ratio: 52.308%
+
+2018 Spring, CS6364.001, Dan I Moldovan
+A: 12, A-: 8, total students: 31, ratio: 64.516%
+
+2018 Spring, CS6364.501, Richard K Min
+A: 10, A-: 7, total students: 35, ratio: 48.571%
+
+2018 Summer, CS6364.0U1, Haim Schweitzer
+A: 21, A-: 10, total students: 40, ratio: 77.500%
+
+2018 Fall, CS6364.001, Richard K Min
+A: 9, A-: 5, total students: 29, ratio: 48.276%
+
+2018 Fall, CS6364.002, Sriraam Natarajan
+A: 17, A-: 26, total students: 59, ratio: 72.881%
+
+2019 Spring, CS6364.001, Dan I Moldovan
+A: 7, A-: 9, total students: 42, ratio: 38.095%
+
+2019 Spring, CS6364.501, Richard K Min
+A: 20, A-: 11, total students: 51, ratio: 60.784%
+
+----- CS6366 -----
+2017 Fall, CS6366.1, Kang Zhang
+A: 27, A-: 10, total students: 51, ratio: 72.549%
+
+2018 Spring, CS6366.001, Xiaohu Guo
+A: 6, A-: 1, total students: 16, ratio: 43.750%
+
+2018 Summer, CS6366.0U1, Kang Zhang
+A: 12, A-: 1, total students: 19, ratio: 68.421%
+
+2019 Spring, CS6366.001, Xiaohu Guo
+A: 12, A-: 3, total students: 21, ratio: 71.429%
+
+----- CS6367 -----
+2017 Fall, CS6367.501, Lingming Zhang
+A: 12, A-: 8, total students: 23, ratio: 86.957%
+
+2018 Spring, CS6367.001, Lingming Zhang
+A: 13, A-: 4, total students: 20, ratio: 85.000%
+
+2018 Fall, CS6367.001, Weichen E Wong
+A: 4, A-: 5, total students: 11, ratio: 81.818%
+
+2019 Spring, CS6367.001, Lingming Zhang
+A: 8, A-: 3, total students: 17, ratio: 64.706%
+
+----- CS6371 -----
+2018 Spring, CS6371.001, Kevin Hamlen
+A: 2, A-: 2, total students: 14, ratio: 28.571%
+
+----- CS6374 -----
+2018 Spring, CS6374.001, Gopal Gupta
+A: 14, A-: 8, total students: 35, ratio: 62.857%
+
+2019 Spring, CS6374.001, Gopal Gupta
+A: 11, A-: 4, total students: 20, ratio: 75.000%
+
+----- CS6375 -----
+2017 Fall, CS6375.4, Anurag Nagar
+A: 16, A-: 17, total students: 50, ratio: 66.000%
+
+2017 Fall, CS6375.1, Anurag Nagar
+A: 22, A-: 20, total students: 65, ratio: 64.615%
+
+2017 Fall, CS6375.501, Anurag Nagar
+A: 22, A-: 22, total students: 65, ratio: 67.692%
+
+2017 Fall, CS6375.3, Anjum Chida
+A: 24, A-: 4, total students: 29, ratio: 96.552%
+
+2017 Fall, CS6375.5, Nicholas R Ruozzi
+A: 12, A-: 9, total students: 38, ratio: 55.263%
+
+2018 Spring, CS6375.001, Anjum Chida
+A: 39, A-: 1, total students: 41, ratio: 97.561%
+
+2018 Spring, CS6375.002, Anjum Chida
+A: 39, A-: 0, total students: 40, ratio: 97.500%
+
+2018 Spring, CS6375.003, Anurag Nagar
+A: 22, A-: 21, total students: 55, ratio: 78.182%
+
+2018 Spring, CS6375.501, William J Semper
+A: 32, A-: 6, total students: 59, ratio: 64.407%
+
+2018 Spring, CS6375.502, Vibhav G Gogate
+A: 8, A-: 6, total students: 31, ratio: 45.161%
+
+2018 Spring, CS6375.MS1, William J Semper
+A: 5, A-: 0, total students: 10, ratio: 50.000%
+
+2018 Summer, CS6375.MS1, William J Semper
+A: 10, A-: 0, total students: 10, ratio: 100.000%
+
+2018 Summer, CS6375.5U1, Haim Schweitzer
+A: 13, A-: 9, total students: 36, ratio: 61.111%
+
+2018 Fall, CS6375.001, Gautam Kunapuli
+A: 8, A-: 9, total students: 22, ratio: 77.273%
+
+2018 Fall, CS6375.003, Anjum Chida
+A: 34, A-: 7, total students: 42, ratio: 97.619%
+
+2018 Fall, CS6375.501, Anurag Nagar
+A: 24, A-: 15, total students: 47, ratio: 82.979%
+
+2018 Fall, CS6375.502, Anurag Nagar
+A: 41, A-: 24, total students: 78, ratio: 83.333%
+
+2018 Fall, CS6375.005, Nicholas R Ruozzi
+A: 10, A-: 8, total students: 50, ratio: 36.000%
+
+2018 Fall, CS6375.004, Anurag Nagar
+A: 30, A-: 26, total students: 68, ratio: 82.353%
+
+2019 Spring, CS6375.005, Sriraam Natarajan
+A: 16, A-: 8, total students: 36, ratio: 66.667%
+
+2019 Spring, CS6375.002, Anjum Chida
+A: 30, A-: 5, total students: 38, ratio: 92.105%
+
+2019 Spring, CS6375.004, Gautam Kunapuli
+A: 19, A-: 20, total students: 45, ratio: 86.667%
+
+2019 Spring, CS6375.001, Anjum Chida
+A: 42, A-: 10, total students: 60, ratio: 86.667%
+
+2019 Spring, CS6375.003, Anurag Nagar
+A: 39, A-: 24, total students: 69, ratio: 91.304%
+
+----- CS6377 -----
+2017 Fall, CS6377.1, Yvo G Desmedt
+A: 3, A-: 4, total students: 13, ratio: 53.846%
+
+----- CS6378 -----
+2017 Fall, CS6378.1, Sridhar Alagar
+A: 10, A-: 3, total students: 30, ratio: 43.333%
+
+2018 Spring, CS6378.001, Ravi Prakash
+A: 8, A-: 13, total students: 39, ratio: 53.846%
+
+2018 Summer, CS6378.0U1, Neeraj Mittal
+A: 5, A-: 3, total students: 20, ratio: 40.000%
+
+2018 Fall, CS6378.001, Neeraj Mittal
+A: 9, A-: 9, total students: 39, ratio: 46.154%
+
+2019 Spring, CS6378.001, Ravi Prakash
+A: 6, A-: 4, total students: 43, ratio: 23.256%
+
+----- CS6380 -----
+2018 Spring, CS6380.001, Neeraj Mittal
+A: 9, A-: 6, total students: 29, ratio: 51.724%
+
+2018 Fall, CS6380.001, Subbarayan Venkatesan
+A: 17, A-: 4, total students: 37, ratio: 56.757%
+
+2019 Spring, CS6380.001, Subbarayan Venkatesan
+A: 6, A-: 3, total students: 16, ratio: 56.250%
+
+----- CS6381 -----
+2018 Spring, CS6381.001, Ramaswamy Chandrasekaran
+A: 9, A-: 5, total students: 17, ratio: 82.353%
+
+----- CS6382 -----
+2017 Fall, CS6382.1, Ding Z Du
+A: 9, A-: 1, total students: 14, ratio: 71.429%
+
+2018 Spring, CS6382.501, Ivan H Sudborough
+A: 4, A-: 2, total students: 15, ratio: 40.000%
+
+2018 Fall, CS6382.001, Ding Z Du
+A: 16, A-: 1, total students: 25, ratio: 68.000%
+
+2019 Spring, CS6382.001, Ding Z Du
+A: 9, A-: 1, total students: 12, ratio: 83.333%
+
+----- CS6384 -----
+2018 Spring, CS6384.001, Haim Schweitzer
+A: 29, A-: 14, total students: 60, ratio: 71.667%
+
+2018 Spring, CS6384.002, Haim Schweitzer
+A: 33, A-: 17, total students: 60, ratio: 83.333%
+
+2019 Spring, CS6384.001, Haim Schweitzer
+A: 25, A-: 12, total students: 65, ratio: 56.923%
+
+2019 Spring, CS6384.002, Haim Schweitzer
+A: 27, A-: 11, total students: 68, ratio: 55.882%
+
+----- CS6385 -----
+2017 Fall, CS6385.1, Andras Farago
+A: 23, A-: 0, total students: 27, ratio: 85.185%
+
+2018 Spring, CS6385.001, Andras Farago
+A: 18, A-: 5, total students: 30, ratio: 76.667%
+
+2018 Summer, CS6385.0W2, Neeraj K Gupta
+A: 10, A-: 9, total students: 23, ratio: 82.609%
+
+2018 Summer, CS6385.0W1, Andras Farago
+A: 17, A-: 8, total students: 27, ratio: 92.593%
+
+2018 Fall, CS6385.001, Andras Farago
+A: 8, A-: 0, total students: 14, ratio: 57.143%
+
+----- CS6390 -----
+2017 Fall, CS6390.1, Kamil Sarac
+A: 12, A-: 7, total students: 31, ratio: 61.290%
+
+2018 Spring, CS6390.001, Zygmunt J Haas
+A: 3, A-: 7, total students: 18, ratio: 55.556%
+
+2018 Fall, CS6390.001, Kamil Sarac
+A: 5, A-: 3, total students: 21, ratio: 38.095%
+
+2019 Spring, CS6390.001, Zygmunt J Haas
+A: 4, A-: 3, total students: 19, ratio: 36.842%
+
+----- CS6396 -----
+2018 Spring, CS6396.001, Farokh Bastani
+A: 2, A-: 3, total students: 6, ratio: 83.333%
+
