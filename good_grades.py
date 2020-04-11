@@ -12,7 +12,10 @@ def generate(aim_ratio, file):
         data = {}
         if re.text != '[]':
             data = json.loads(re.text)
-            file.write('----- ' + course_num + ' -----\n')
+            if course_num == 'CS6301':
+                file.write('----- ' + course_num + ' -----\n')
+            else:
+                file.write('\n----- ' + course_num + ' -----\n')
         for section in data:
             semester = section['course']['semester']['name']
             course_name = 'CS' + section['course']['number'] + '.' + section['number']
@@ -35,8 +38,9 @@ def generate(aim_ratio, file):
             print(course)
 
 
-with open('courses_80%.txt', 'w') as f:
-    generate(0.8, f)
+if __name__ == '__main__':
+    with open('courses_80%.txt', 'w') as f:
+        generate(0.8, f)
 
-with open('courses.txt', 'w') as f:
-    generate(0, f)
+    with open('courses.txt', 'w') as f:
+        generate(0, f)
